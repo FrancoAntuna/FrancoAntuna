@@ -53,18 +53,19 @@ I'm passionate about building data-driven solutions that bridge development and 
 
 ---
 
-### 🧪 Projects
+### 🧪 Principal projects
 
 - 🐶 **Dog Breeds Classifier**  
   A complete pipeline: object detection (YOLOv5) + classification (ResNet / custom CNN) + automatic annotation (COCO/YOLO formats).  
   `cv2`, `PyTorch`, `FAISS`, `pandas`, `COCO-annotator`
 
-- 🏎️ **iRacing Telemetry ETL**  
-  ETL to extract, transform and store telemetry data from iRacing via MoTeC i2 Pro. Used in exploratory race data analysis and predictive modeling.  
-  `pandas`, `AWS S3`, `FastAPI`, `MoTeC`, `Jupyter`
+- 🏎️ **iRacing Telemetry ETL** *(private repository)*  
+  ETL to extract, transform and store telemetry data from iRacing via MoTeC i2 Pro. Used for exploratory race data analysis and predictive modeling.  
+  `pandas`, `AWS S3`, `FastAPI`, `MoTeC`, `Jupyter`, `SQL`
 
 - 📊 **BI & Analytics Dashboards**  
-  Built Power BI reports using dimensional models, DAX, and real business cases. Connected to SQL Server, Excel and web APIs.
+  Built Power BI reports using dimensional models, DAX and real business cases. Connected to SQL Server, Excel and web APIs.  
+  `Power BI`, `SQL Server`, `DAX`, `ETL`
 
 ---
 
